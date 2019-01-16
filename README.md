@@ -85,10 +85,10 @@ Software Requirements
 
     No cube roots of <c> (mod <p>)
 
-    where <c> is replaced with the value of c and <p> is replaced with the value of p. There must be no spaces at the beginning or end of the line. The line must be terminated with a newline.
+   where <c> is replaced with the value of c and <p> is replaced with the value of p. There must be no spaces at the beginning or end of the line. The line must be terminated with a newline.
 
    If there are one or more cube roots of c (mod n), the program must print the following line on the console for each cube root m:
 
     <m>^3 = <c> (mod <p>)
 
-    where <m> is replaced with the value of m, <c> is replaced with the value of c, and <p> is replaced with the value of p. There must be no spaces at the beginning or end of the line. The line must be terminated with a newline. The lines must be printed in ascending order of m. 
+   where <m> is replaced with the value of m, <c> is replaced with the value of c, and <p> is replaced with the value of p. There must be no spaces at the beginning or end of the line. The line must be terminated with a newline. The lines must be printed in ascending order of m. 
